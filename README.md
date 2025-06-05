@@ -46,7 +46,7 @@ This project analyzes e-commerce flash sales and order spikes using statistical 
     - Z-score method (mean and variance)
 - **Conclusion:** Binomial CDF is the most statistically valid method for determining flash sales.
 
-> **Export PDF:** [PREVIEW PDF](PDF/Flashsale.pdf)
+> **Export PDF:** [View PDF](https://github.com/DhawaDG/E-commerce-Flash-Sale-and-Spike-Order-Using-Binomial-and-Poisson-Distribution/tree/master/PDF/Flashsale.pdf)
 
 ---
 
@@ -62,4 +62,4 @@ This project analyzes e-commerce flash sales and order spikes using statistical 
     - Negative Binomial Distribution (GLM Negative Binomial and ZINB)
 - **Conclusion:** Deploy ZINB as the standard approach for count data analysis in production, especially with overdispersion and structural zeros.
 
-> **Export PDF:** See [PREVIEW PDF](PDF/orderspike.pdf)
+> **Export PDF:** See [View PDF](https://github.com/DhawaDG/E-commerce-Flash-Sale-and-Spike-Order-Using-Binomial-and-Poisson-Distribution/tree/master/PDF/orderspike.pdf)
